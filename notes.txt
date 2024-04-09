@@ -1,9 +1,0 @@
-Municipios not in Municipios:
-CHIMA (Chimá con tílde sí está)
-GUACHENÉ
-PAEZ (Páez sí está, con tilde)
-SAN LUIS DE PALENQUE
-SINCÉ
-TUMACO
-
-
